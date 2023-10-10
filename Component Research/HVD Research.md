@@ -1,0 +1,21 @@
+## HVD Research
+- EM30MSD Series service plug from Hirose
+	- Discontinued Product
+- TE AMP+ Manual Service Disconnect
+	- Random links
+		- https://www.te.com/usa-en/product-2103234-2.html
+		- https://www.te.com/usa-en/product-2103172-9.html?q=2103172-9&source=header
+		- https://www.te.com/usa-en/product-1587987-9.html
+	- Product List
+		- https://www.te.com/usa-en/search.html?q=1587987&source=header
+	- 200A Fused
+		- https://www.te.com/usa-en/product-2103212-8.html
+		- https://www.te.com/usa-en/product-1587987-8.html?q=1587987&source=header
+	- Non Fused
+		- https://www.te.com/usa-en/product-1-1587987-7.html?q=1587987&source=header
+		- https://www.te.com/usa-en/product-1-2103172-7.html
+		- Current Rating?
+	- Includes 
+- Amphenol MSD
+	- https://www.amphenol-industrial.de/en/MSD-Connectors
+	- Rated for 600V 200A

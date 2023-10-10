@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Rules",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#PROJECT_IP",
+      "color": {
+        "a": 1,
+        "rgb": 5408992
+      }
+    },
+    {
+      "query": "tag:#PROJECT_C",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Projects  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701254
+      }
+    },
+    {
+      "query": "path:\"Component Research\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
+  "linkStrength": 0.5,
+  "linkDistance": 265,
+  "scale": 0.3952486839678206,
+  "close": false
+}

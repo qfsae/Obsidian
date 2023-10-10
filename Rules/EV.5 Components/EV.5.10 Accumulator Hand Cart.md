@@ -1,0 +1,9 @@
+- EV.5.10.1 Teams MUST have a Hand Cart to transport the Accumulator Container(s).
+- EV.5.10.2 The Hand Cart must be used when the Accumulator Container(s) are transported on the Competition site [[EV.3 Work Practices]].
+- EV.5.10.3 The Accumulator Containers must be securely attached to the Hand Cart
+- EV.5.10.4 The Hand Cart must:
+	- Be able to carry the load of the Accumulator container without tipping over
+	- Contain a minimum of two wheels
+	- Have a break that must be:
+		- Operated on a dead mans switch
+		- Able to stop the Hand Cart with a fully loaded Accumulator Container

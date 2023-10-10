@@ -1,0 +1,10 @@
+- EV.6.3.1 Maintenance Plugs must allow  the electrical separation of the Accumulator Segments to meet:
+	- The separated segments to meet the voltage and energy limits within [[EV.6.1 Energy Storage|EV.6.1.2]] 
+	- The separation must affect both poles of the segment
+- EV.6.3.2 Maintenance Plugs must:
+	- require the physical removal or separation of a component
+	- not be physically possible to connect in any other configuration than the design intention
+	- not require tools to install or remove
+	- include a positive locking feature
+	- be non-conductive on surfaces that do not provide any electrical connection
+- EV.6.3.4 Maintenance Plugs must be disconnected when Accumulator container is open or segments are removed - See [[EV.10 Vehicle Operations]] and [[EV.3 Work Practices]]

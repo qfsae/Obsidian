@@ -1,0 +1,7 @@
+- EV.6.4.1 Every Accumulator Container must contain at a minimum one fuse [[EV.7.6 Overcurrent Protection]] and two or more AIRs
+- EV.6.4.2 The AIRs must be:
+	-  normally open
+	- open both poles of the accumulator
+- EV.6.4.3 When the AIRs are open, HV must not be present outside of the Accumulator Container
+- EV.6.4.4 The AIRs and any fuses must be separated from the rest of the accumulator with an electrically insulated and nonflammable material (F.1.18)
+- EV.6.4.5 A capacitor may be used to hold the AIRs closed for up to 250 ms after the [[EV.8.1 Shutdown Circuit]] opens

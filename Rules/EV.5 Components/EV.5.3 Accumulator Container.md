@@ -1,0 +1,16 @@
+- EV.5.3.1 Accumulator Containers must meet F.10
+- EV.5.3.2 The Accumulator Container(s) must be removable from the vehicle while still remaining rules compliant
+- EV.5.3.3 The Accumulator Container(s) must be completely enclosed at all times
+	- when mounded to the vehicle
+	- when removed from the vehicle
+	- without the need to install extra protective covers
+- EV.5.3.4 The Accumulator Container(s) may contain Holes or Openings
+	- Only the wiring harness, ventilation, cooling and fasteners may pass through holes in the accumulator container(s)
+	- Holes and Openings in the Accumulator Container must meet F.10.4
+	- External Holes must meet [[EV.7.1 Electrical Covers]]
+- EV.5.3.5 Any Accumulators that may vent an explosive gas must also have a ventilation system or pressure relief valve to prevent the vented gas from reaching an explosive concentration
+- EV.5.3.6 Completely sealed Accumulator containers mut have a pressure relief valve to prevent high pressure within the container
+- EV.5.3.7 Each Accumulator container must be labeled with the:
+	- Symbol specified in <a href="https://www.iso.org/obp/ui#iso:grs:7010:W012">ISO 7010-W012</a>  (triangle with black lightning bolt on yellow background) with triangle side length of 100 mm minimum
+	- Text "Always Energized"
+	- Text "High Voltage" if the voltage meets [[T.9 Electrical Equipment#T.9.1 Definitions]] High Voltage

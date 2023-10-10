@@ -1,0 +1,9 @@
+- EV.5.4.1 The GLV System must be a [[T.9 Electrical Equipment#T.9.1 Definitions|Low Voltage]] system that is Grounded to the Chassis
+- EV.5.4.2 The GLV System must include a [[EV.8.9 Master Switches]] governed by [[T.9 Electrical Equipment#T.9.3 Master Switches|T.9.3 Master Switches]]
+- EV.5.4.3 A GLV Measuring Point (GLVMP) must be installed which is:
+	- Connected to the GLV System ground
+	- next to the [[EV.6.8 TSMP]]
+	- 4 mm shrouded banana jack
+	- Color: black
+	- marked "GND"
+- EV.5.4.4 Low Voltage Batteries must meet [[T.9 Electrical Equipment#T.9.2 Low Voltage Batteries|T.9.2 Low Voltage Batteries]]

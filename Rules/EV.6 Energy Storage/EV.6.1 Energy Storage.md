@@ -1,0 +1,7 @@
+- EV.6.1.1 All cells or super capacitors that are built into the Accumulator Segments must be enclosed within (an) Accumulator Container(s).
+- EV.6.1.2 Each Accumulator Segment must contain:
+	- Maximum Voltage of less than 120VDC
+	- Maximum Energy of 6 MJ
+	- The contained energy of a stack is calculated by multiplying the maximum stack voltage with the nominal capacity of the used cells.
+- EV.6.1.3 No further energy storage besides reasonably sized intermediate capacitors are allowed after the [[EV.4 Electrical Limitations#EV.4.3 Energy Meter]].
+- EV.6.1.4 All Accumulator Segments and/or Accumulator Containers (including spares and replacement parts) must be identical to the design documented within the ESF and SES, See [[EV.2 Required Documentation]].

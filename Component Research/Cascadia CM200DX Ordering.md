@@ -1,0 +1,30 @@
+All prices listed in cad unless specified
+- Legacy EV
+	- currently out of stock (9/27/2023)
+	- 12-16 week lead time
+	- $104 usd shipping
+- Swindon Powertrain
+	- 4-5 days lead time
+	- $450 shipping
+	- 13,000 per inverter
+	- 130 per sensor connector kit
+	- 3500 per HV connector kit
+- Cascadia
+	- rough quoted per inverter
+		- $6359 per inverter
+		- 900 + 600 usd for each cable crimp kit
+		- $65 usd for low voltage connector kit
+	- 16-20 week lead time (5 months)
+		- can be expedited for 25% fee
+		- expedited cost approx 8000 usd or 11 cad + tax
+		- expedited lead time approx 4-8 weeks
+	- Min order amount of 1000 usd
+	- Current budgetary pricing is as follows:  (usd) (before exp lead time 1.25x)
+		- CM200DX: $6,359.00 each for 1-2 units
+		- CM200 AC Cables, 50mm^2 straight connector, 3m: $857.67 each set in all volumes.
+		- CM200 DC Cables, 50mm^2 straight connector, 3m: $571.78 each set in all volumes.
+		- Low Voltage connector kit for CM200: $65 each set in all volumes.
+	- 4-8 Week lead time pricing (CAD, +Tax, +Shipping)
+		- $10,721.39 per inverter
+		- $1445.92 per AC cable kit (pre-crimped)
+		- $964.11 per DC cable kit (pre-crimped)
