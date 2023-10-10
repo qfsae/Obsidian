@@ -9,15 +9,14 @@ List of all parts associated with the HV (High Voltage) System
 		- 100V isolation between Cell groups (page 60 [[orionbms2_wiring_manual.pdf]])
 	- [[Temp Monitor Board]] - measures [[EV.8.5 Accumulator Temperature]]
 - [[Isolation Relays]]
-- [[BSPD]]
 - [[IMD Ordering]] / [[EV.8.6 IMD]]
 - Accumulator to Inverter Connector
 	- Must adhere to [[EV.6.10 TS Connectors]]
 #### Other Parts (may include [[EV.8.8 Interlocks]])
 - [[Sony VTC6]] batteries from [[Enepaq Sony VTC6|Enepaq]]
 	- See also bus bars and screw terminals from [[Enepaq Sony VTC6|Enepaq]]
-	- 100s6p config -> 5 segments
-		- $20*4.2V_{DC}=84V_{DC}$
+	- 100s6p config -> 6 segments
+		- $18*4.2V_{DC}=84V_{DC}$
 		- $20*3.6V_{DC}=72V_{DC}$
 		- $20*2.5V_{DC}=50V_{DC}$
 	- Segments must adhere to [[EV.6.1 Energy Storage]] (EV.6.1.2)
