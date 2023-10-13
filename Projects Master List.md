@@ -17,4 +17,8 @@
 - [[TSAL]]
 - [[Voltage Indicator PCB]]
 - [[Accumulator Indication Panel]]
-- 
+
+## GLV/Firmware Design Projects
+- [[Dashboard]]
+- [[VCU]]
+- [[Brake Light]]
