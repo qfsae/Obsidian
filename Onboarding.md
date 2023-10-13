@@ -55,8 +55,8 @@ For this project, we will assume that the [[VCU]] sends out a CAN message with t
 	- Bit 5: Throttle Fault
 	- Bit 6: Brake Fault
 - Byte 2: Vbatt Voltage (0.1421 multiplier) (V)
-- Byte 3: Motor Power (16 bit) (kW)
-- Byte 4: Motor  Power2 (16 bit) (kW)
+- Byte 3: Motor Power (16 bit) (W)
+- Byte 4: Motor  Power2 (16 bit) (W)
 - Byte 5: Coolant Temperature (C)
 
 You will write a program for your target architecture that will receive this information over CAN and print it out to a serial terminal. There will be other messages on the CAN bus besides this one. Hint: You will need to filter by CAN ID.
