@@ -36,6 +36,18 @@
                 "file": "Excalidraw/Mock Accumulator 0.0.md"
               }
             }
+          },
+          {
+            "id": "ccde6674a1c05940",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2023-10-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -178,6 +190,10 @@
   },
   "active": "030f649963b6b3d9",
   "lastOpenFiles": [
+    "Daily Notes/2023-10-10.md",
+    "Excalidraw/Mock Accumulator 0.0.md",
+    "Excalidraw/Drawing 2023-10-12 11.47.48.excalidraw.md",
+    "Component Research/Cascadia CM200DX Ordering.md",
     "Components Info/Orion 2 BMS.md",
     "Rules/EV.7 Electrical Shutdown/EV.7.4 Connections.md",
     "Rules/EV.6 Energy Storage/EV.6.8 TSMP.md",
@@ -194,8 +210,6 @@
     "Component Research/HVD Research.md",
     "Components Info/HV Wiring.md",
     "ReadME.md",
-    "Daily Notes/2023-10-10.md",
-    "Excalidraw/Mock Accumulator 0.0.md",
     "Daily Notes/2023-10-06.md",
     "Projects/BSPD.md",
     "Excalidraw",
@@ -203,8 +217,6 @@
     "Projects Master List.md",
     "Daily Notes/2023-10-04.md",
     "Daily Notes/2023-10-01.md",
-    "Daily Notes/2023-09-28.md",
-    "Daily Notes/2023-09-27.md",
     "Shutdown Circuit 0V0.canvas",
     "Datasheets/EnepaqVTC6A_Battery/VTC6-Sony-Murata-Li-ion-Battery-Module-With-Temperature-Sensor-Datasheet-Tesla-Battery-Sponsorship-Formula-SAE-Electric-Formula-Student-Battery-Pack.pdf",
     "Datasheets/Orion_BMS/orionbms2_wiring_manual.pdf",
