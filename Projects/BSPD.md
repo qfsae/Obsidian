@@ -4,3 +4,7 @@ The purpose of the BSPD is to act as a hardware failsafe in the case of a thrott
 
 ## References
 Alex Walsh to complete BSPD ordering references
+
+
+BSPD Config from testing session with jacob
+![[IMG_5310 1.jpg]]
