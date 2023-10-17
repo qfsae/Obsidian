@@ -7,4 +7,4 @@ Alex Walsh to complete BSPD ordering references
 
 
 BSPD Config from testing session with jacob
-![[Obsidian/assets/IMG_5310.jpg]]
+![[IMG_5310.jpg]]
