@@ -1,0 +1,5 @@
+- [[EV.3 Work Practices]] - Moved to EV.11
+- [[EV.5.4 Grounded Low Voltage System]] Added the requirement that the GLV must be able to function with the Accumulator removed from the vehicle
+-  [[EV.6.3 Maintenance Plugs]] Added the requirement to have access to maintenance plugs after opening the Accumulator Container and not necessary to move or remove any components
+- Added [[EV.7.6 Overcurrent Protection#Q24 EV.6.6.6]] Conductor Current rating
+- [[EV.8.3 AMS#EV.8.3.6 Indicator Light]] must stay on until reset

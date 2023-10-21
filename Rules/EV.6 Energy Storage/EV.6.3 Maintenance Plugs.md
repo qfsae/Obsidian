@@ -3,6 +3,7 @@
 	- The separation must affect both poles of the segment
 - EV.6.3.2 Maintenance Plugs must:
 	- require the physical removal or separation of a component
+	- have access after opening the Accumulator Container and not necessary to move or remove any components
 	- not be physically possible to connect in any other configuration than the design intention
 	- not require tools to install or remove
 	- include a positive locking feature

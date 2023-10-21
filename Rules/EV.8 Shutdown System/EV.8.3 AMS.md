@@ -21,6 +21,7 @@ The AMS must monitor for:
 If the AMS detects one or more of the conditioned mentioned within [[#EV.8.3.4]], the AMS must:
 - Open the [[EV.8.1 Shutdown Circuit]]
 - Turn on the [[#EV.8.3.6 Indicator Light]]
+	- The light must stay on until the AMS is reset
 
 #### EV.8.3.6 Indicator Light
 The AMS Indicator Light must be:

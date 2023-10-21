@@ -21,7 +21,13 @@ Battery packs with Low Voltage or non voltage rated fusible links for cell conne
 - An Overcurrent Protection device rated at less than or equal to one third the sum of the parallel fusible links and complying with EV.7.6.2.b above is connected in series.
 - The AMS can detect an open fusible link and will Open the Shutdown Circuit EV.8.2.2 if a fault is detected.
 - Fusible link current rating is specified in manufacturer’s data or suitable test data is provided.
-
 #### EV.7.6.6
 Cells with internal Overcurrent Protection may be used without external Overcurrent Protection if suitably rated
 Most cells internal protection will fall under [[#EV.7.6.5]]
+
+#### Q24 EV.6.6.6
+If the conductor A rating is below the rating of the upstream current protection, the reduced conductor longer than 150 mm must have additional Overcurrent protection.
+This must be:
+- 150 mm or less from the source end of the reduced conductor
+- On both positive and negative conductors in the TS
+- On the positive conductor in the GLV system
