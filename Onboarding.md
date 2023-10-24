@@ -64,7 +64,6 @@ You will write a program for your target architecture that will receive this inf
 You may want to do some research on CAN Bus before you attempt this project. <a href="https://github.com/qfsae/zenith/blob/master/docs/can.pdf">Here</a> is a great resource written by one of our past captains, Ethan Peterson, to get you started.
 #### References
 - <a href="https://github.com/qfsae/zenith/blob/master/docs/can.pdf">CAN Bus White Paper</a>
-- [[CAN bus general info]]
 - <a href=https://github.com/qfsae/zenith/tree/master/dyno-can/arduino-can-monitor>Example Code</a>
 	- For Arduino only
 	- Does not complete project requirements
