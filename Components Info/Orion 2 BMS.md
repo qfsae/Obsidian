@@ -1,6 +1,7 @@
-Orion 2 BMS - 120 Cell Option
+Orion 2 BMS - 180 Cell Option
+Note*: Need 180 Cell option to ensure isolation between segments (DIFFERENT than cell groups)
 ## Specifications
-- Monitors up to 120 cells in series
+- Monitors up to 180 cells in series
 	- 10 Cell Groups
 	- Galvanic isolation between cell groups
 - Can be combined with additional BMS to increase series cell count
