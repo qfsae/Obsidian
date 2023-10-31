@@ -41,7 +41,7 @@ List of all parts associated with the HV (High Voltage) System
 		- Precharge relay will be directly connected to [[EV.8.1 Shutdown Circuit]]
 	- Discharge
 		- [[Inverter Discharge Process (V0_9).pdf]] -> Inverter Discharge not Rules Compliant -> Discharge Circuit needed
-		- [[Discharge Circuit PCB]]
+		- [[Discharge Circuit]]
 		- Must be able to discharge inverter when [[EV.8.1 Shutdown Circuit]] or [[EV.6.5 High Voltage Disconnect]] is disengaged
 - [[EV.6.7 Voltage Indicator]] -> Part of [[Accumulator Indication Panel]]
 	- Placed on outside of Accumulator Container

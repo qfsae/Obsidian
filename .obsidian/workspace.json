@@ -6,7 +6,7 @@
       {
         "id": "b674543d4852d9b8",
         "type": "tabs",
-        "dimension": 64.57581227436823,
+        "dimension": 61.461794019933556,
         "children": [
           {
             "id": "1cd64a65036f73a5",
@@ -14,19 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Components Info/Cascadia CM200DX.md",
+                "file": "Projects/Precharge Control.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5470c20ab98649fe",
+            "id": "ddd57884fca4ff9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/TSAL.md",
+                "file": "Rules/EV.7 Electrical Shutdown/EV.7.6 Overcurrent Protection.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,22 +43,33 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "d357757987bb0535",
-        "type": "tabs",
-        "dimension": 35.42418772563177,
-        "children": [
+          },
           {
             "id": "c9e5c52028bef649",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadME.md",
+                "file": "CAN Bus/CAN bus general info.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "27634585089bf308",
+        "type": "tabs",
+        "dimension": 38.53820598006645,
+        "children": [
+          {
+            "id": "5470c20ab98649fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Temp Monitor Board.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tsal",
+                "query": "ams ind",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -138,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/TSAL.md",
+                "file": "Projects/Precharge Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/TSAL.md",
+                "file": "Projects/Precharge Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/TSAL.md"
+                "file": "Projects/Precharge Control.md"
               }
             }
           }
@@ -202,44 +213,47 @@
       "notion-like-tables:Create Notion-Like table": false
     }
   },
-  "active": "5470c20ab98649fe",
+  "active": "1cd64a65036f73a5",
   "lastOpenFiles": [
-    "assets/Data Sheet 500V.pdf",
-    "Projects/TSAL.md",
-    "Rules/T.9 Electrical Equipment.md",
-    "Rules/EV.6 Energy Storage/EV.6.9 TSAL.md",
-    "Onboarding.md",
-    "Projects/Brake Light.md",
-    "ReadME.md",
-    "Projects Master List.md",
-    "Projects/Voltage Indicator PCB.md",
-    "Projects/VCU.md",
-    "CAN Bus/Dashboard CAN Protocol.md",
-    "Rules/EV.7 Electrical Shutdown/EV.7.5 Voltage Separation.md",
-    "Projects/Temp Monitor Board.md",
-    "Components Info/Sony VTC6.md",
-    "Components Info/Enepaq Sony VTC6.md",
+    "hi.md",
     "Projects/Precharge Control.md",
-    "Projects/Discharge Circuit PCB.md",
-    "Rules/EV.8 Shutdown System/EV.8.1 Shutdown Circuit.md",
-    "Rules/EV.8 Shutdown System/EV.8.4 Accumulator Voltage.md",
-    "Rules/EV.6 Energy Storage/EV.6.6 Precharge and Discharge.md",
-    "Rules/EV.10 Vehicle Operations.md",
-    "Projects/Dashboard.md",
+    "Projects/Discharge Circuit.md",
+    "Rules/EV.7 Electrical Shutdown/EV.7.6 Overcurrent Protection.md",
+    "Projects/Temp Monitor Board.md",
+    "Projects/BSPD.md",
+    "Projects/Brake Light.md",
+    "Projects/Accumulator Indication Panel.md",
+    "Shutdown Circuit 0V0.canvas",
+    "Designs",
+    "Designs/ModuleAMS.md",
+    "assets/Data Sheet 500V.pdf",
+    "Onboarding.md",
+    "New Text Document.txt",
+    "Excalidraw/Mock Accumulator 0.0.md",
+    "Excalidraw/Drawing 2023-10-18 21.55.10.excalidraw.md",
     "CAN Bus/CAN bus general info.md",
     "CAN Bus/CAN bus.md",
-    "Projects/BSPD.md",
-    "Projects/Accumulator Indication Panel.md",
+    "Daily Notes/2023-10-17.md",
+    "ReadME.md",
+    "Untitled.canvas",
+    "Rules/Q24 Rules Changes.md",
+    "Rules/EV.8 Shutdown System/EV.8.3 AMS.md",
+    "Components Info/Cascadia CM200DX.md",
+    "Datasheets/EnepaqVTC6A_Battery/Test of Sony US18650VTC6 3000mAh (Green).pdf",
+    "Daily Notes/2023-10-10.md",
+    "Rules/EV.6 Energy Storage/EV.6.3 Maintenance Plugs.md",
+    "Rules/EV.5 Components/EV.5.4 Grounded Low Voltage System.md",
+    "Rules/EV.3 Work Practices.md",
+    "Rules/EV.4 Electrical Limitations.md",
+    "Rules/EV.2 Required Documentation.md",
+    "assets/EV Block Diagram.drawio.pdf",
+    "Projects/VCU.md",
+    "assets/Shutdown Circuit Diagram.png",
     "Excalidraw",
-    "Shutdown Circuit 0V0.canvas",
     "Datasheets/EnepaqVTC6A_Battery/VTC6-Sony-Murata-Li-ion-Battery-Module-With-Temperature-Sensor-Datasheet-Tesla-Battery-Sponsorship-Formula-SAE-Electric-Formula-Student-Battery-Pack.pdf",
     "Datasheets/Orion_BMS/orionbms2_wiring_manual.pdf",
-    "assets/EV Block Diagram.drawio.pdf",
     "Projects/Untitled",
     "Datasheets/Orion_BMS/orionbms2_operational_manual.pdf",
-    "Datasheets/Orion_BMS/orionbms2_specifications.pdf",
-    "Untitled.table",
-    "Datasheets/EnepaqVTC6A_Battery/US18650VTC6-SafetyDataSheet.pdf",
     "FSAE Rulez/Attachments/Image_002.png",
     "FSAE Rulez/Attachments/Image_084.png",
     "FSAE Rulez/Attachments/Image_077.png",
@@ -248,7 +262,6 @@
     "FSAE Rulez/Attachments/Image_053.png",
     "FSAE Rulez/Attachments/Image_052.png",
     "FSAE Rulez/Attachments/Image_042.png",
-    "FSAE Rulez/Attachments/Image_041.png",
-    "FSAE Rulez/Attachments/Image_040.png"
+    "FSAE Rulez/Attachments/Image_041.png"
   ]
 }

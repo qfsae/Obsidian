@@ -11,7 +11,7 @@
 - [[TS Connectors]]
 
 ## HV Design Projects
-- [[Discharge Circuit PCB]]
+- [[Discharge Circuit]]
 - [[Precharge Control]]
 - [[Temp Monitor Board]]
 - [[TSAL]]
