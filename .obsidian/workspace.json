@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Precharge Control.md",
+                "file": "Projects/Remote Monitoring Dashboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Precharge Control.md",
+                "file": "Projects/Remote Monitoring Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Precharge Control.md",
+                "file": "Projects/Remote Monitoring Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Precharge Control.md"
+                "file": "Projects/Remote Monitoring Dashboard.md"
               }
             }
           }
@@ -215,8 +215,15 @@
   },
   "active": "1cd64a65036f73a5",
   "lastOpenFiles": [
-    "hi.md",
+    "Projects/VCU/Required Sensor Readings.md",
+    "Projects/Remote Monitoring Dashboard.md",
+    "Projects/VCU/VCU Exposed Hardware.md",
+    "Projects/VCU/VCU WiFi Expansion Card.md",
+    "Projects/VCU/VCU.md",
+    "Projects/Remote Monitoring Firmware.md",
+    "Projects/VCU",
     "Projects/Precharge Control.md",
+    "hi.md",
     "Projects/Discharge Circuit.md",
     "Rules/EV.7 Electrical Shutdown/EV.7.6 Overcurrent Protection.md",
     "Projects/Temp Monitor Board.md",
@@ -241,19 +248,12 @@
     "Components Info/Cascadia CM200DX.md",
     "Datasheets/EnepaqVTC6A_Battery/Test of Sony US18650VTC6 3000mAh (Green).pdf",
     "Daily Notes/2023-10-10.md",
-    "Rules/EV.6 Energy Storage/EV.6.3 Maintenance Plugs.md",
-    "Rules/EV.5 Components/EV.5.4 Grounded Low Voltage System.md",
-    "Rules/EV.3 Work Practices.md",
-    "Rules/EV.4 Electrical Limitations.md",
-    "Rules/EV.2 Required Documentation.md",
     "assets/EV Block Diagram.drawio.pdf",
-    "Projects/VCU.md",
     "assets/Shutdown Circuit Diagram.png",
     "Excalidraw",
     "Datasheets/EnepaqVTC6A_Battery/VTC6-Sony-Murata-Li-ion-Battery-Module-With-Temperature-Sensor-Datasheet-Tesla-Battery-Sponsorship-Formula-SAE-Electric-Formula-Student-Battery-Pack.pdf",
     "Datasheets/Orion_BMS/orionbms2_wiring_manual.pdf",
     "Projects/Untitled",
-    "Datasheets/Orion_BMS/orionbms2_operational_manual.pdf",
     "FSAE Rulez/Attachments/Image_002.png",
     "FSAE Rulez/Attachments/Image_084.png",
     "FSAE Rulez/Attachments/Image_077.png",
