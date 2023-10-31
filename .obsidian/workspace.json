@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onboarding.md",
+                "file": "Projects/TSAL.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onboarding.md",
+                "file": "Projects/TSAL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onboarding.md",
+                "file": "Projects/TSAL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onboarding.md"
+                "file": "Projects/TSAL.md"
               }
             }
           }
@@ -204,14 +204,17 @@
   },
   "active": "5470c20ab98649fe",
   "lastOpenFiles": [
-    "Projects/Brake Light.md",
+    "assets/Data Sheet 500V.pdf",
+    "Projects/TSAL.md",
+    "Rules/T.9 Electrical Equipment.md",
+    "Rules/EV.6 Energy Storage/EV.6.9 TSAL.md",
     "Onboarding.md",
+    "Projects/Brake Light.md",
     "ReadME.md",
     "Projects Master List.md",
     "Projects/Voltage Indicator PCB.md",
     "Projects/VCU.md",
     "CAN Bus/Dashboard CAN Protocol.md",
-    "Projects/TSAL.md",
     "Rules/EV.7 Electrical Shutdown/EV.7.5 Voltage Separation.md",
     "Projects/Temp Monitor Board.md",
     "Components Info/Sony VTC6.md",
@@ -222,14 +225,11 @@
     "Rules/EV.8 Shutdown System/EV.8.4 Accumulator Voltage.md",
     "Rules/EV.6 Energy Storage/EV.6.6 Precharge and Discharge.md",
     "Rules/EV.10 Vehicle Operations.md",
-    "Rules/T.9 Electrical Equipment.md",
     "Projects/Dashboard.md",
     "CAN Bus/CAN bus general info.md",
     "CAN Bus/CAN bus.md",
     "Projects/BSPD.md",
     "Projects/Accumulator Indication Panel.md",
-    "Excalidraw/Mock Accumulator 0.0.md",
-    "Daily Notes/2023-10-10.md",
     "Excalidraw",
     "Shutdown Circuit 0V0.canvas",
     "Datasheets/EnepaqVTC6A_Battery/VTC6-Sony-Murata-Li-ion-Battery-Module-With-Temperature-Sensor-Datasheet-Tesla-Battery-Sponsorship-Formula-SAE-Electric-Formula-Student-Battery-Pack.pdf",
@@ -240,7 +240,6 @@
     "Datasheets/Orion_BMS/orionbms2_specifications.pdf",
     "Untitled.table",
     "Datasheets/EnepaqVTC6A_Battery/US18650VTC6-SafetyDataSheet.pdf",
-    "Rules/EV.9 Charging",
     "FSAE Rulez/Attachments/Image_002.png",
     "FSAE Rulez/Attachments/Image_084.png",
     "FSAE Rulez/Attachments/Image_077.png",
