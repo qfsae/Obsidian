@@ -19,3 +19,24 @@ https://michaelruppe.com/2020/10/11/design-walkthrough-tractive-system-active-li
 
 Example KiCad PCB
 https://github.com/michaelruppe/FSAE/tree/master/TSALv3
+
+Design
+
+Isolated Power Supply & TSAL Light Interconnect
+Need a 2W DC-DC Converter, 12V output voltage, 9-18 V input voltage, single output
+
+
+Optocoupler, Phototransistor Output, with Base Connection
+https://www.vishay.com/docs/81181/4n35.pdf
+https://www.snapeda.com/parts/4N35/Vishay%20Semiconductor%20Opto%20Division/view-part/
+
+
+
+Differential Comparator, get through hole for easy soldering
+https://www.ti.com/lit/ds/symlink/lm211.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1698680288064&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm211
+
+NE555 (Precision Timer), this is used for precision timing circuits capable of producing accurate time delays or oscillation.
+https://www.digikey.ca/en/products/detail/texas-instruments/NE555P/277057
+https://www.snapeda.com/parts/NE555P/Texas%20Instruments/view-part/
+
+
