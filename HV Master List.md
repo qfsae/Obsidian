@@ -7,7 +7,7 @@ List of all parts associated with the HV (High Voltage) System
 		- Page 64 [[orionbms2_wiring_manual.pdf]] -> all cell taps are fused
 		- 10 Cell groups with 10 cells each
 		- 100V isolation between Cell groups (page 60 [[orionbms2_wiring_manual.pdf]])
-	- [[Temp Monitor Board]] - measures [[EV.8.5 Accumulator Temperature]]
+	- [[Temp Monitor PCB]] - measures [[EV.8.5 Accumulator Temperature]]
 - [[Isolation Relays]]
 - [[IMD Ordering]] / [[EV.8.6 IMD]]
 - Accumulator to Inverter Connector

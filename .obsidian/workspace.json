@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Remote Monitoring Dashboard.md",
+                "file": "Projects Master List.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Remote Monitoring Dashboard.md",
+                "file": "Projects Master List.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Remote Monitoring Dashboard.md",
+                "file": "Projects Master List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Remote Monitoring Dashboard.md",
+                "file": "Projects Master List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Remote Monitoring Dashboard.md"
+                "file": "Projects Master List.md"
               }
             }
           }
@@ -215,14 +215,18 @@
   },
   "active": "1cd64a65036f73a5",
   "lastOpenFiles": [
-    "Projects/VCU/VCU WiFi Expansion Card.md",
-    "Projects/VCU/VCU.md",
-    "Projects/Temp Monitor Board.md",
-    "CAN Bus/CAN bus.md",
-    "Projects/VCU/VCU WiFi Module Firmware.md",
-    "Projects/Remote Monitoring Dashboard.md",
     "Projects/VCU/Required Sensor Readings.md",
+    "Projects/VCU/VCU.md",
+    "Projects/VCU/VCU WiFi Module Firmware.md",
+    "Projects/VCU/VCU WiFi Expansion Card.md",
     "Projects/VCU/VCU Exposed Hardware.md",
+    "Projects/Temperature Monitoring Firmware.md",
+    "Projects/Temp Monitor PCB.md",
+    "Projects/Remote Monitoring Dashboard.md",
+    "Projects/Dashboard Software.md",
+    "Projects/Dashboard.md",
+    "Projects Master List.md",
+    "CAN Bus/CAN bus.md",
     "Projects/VCU",
     "Projects/Precharge Control.md",
     "hi.md",
@@ -243,11 +247,7 @@
     "Daily Notes/2023-10-17.md",
     "ReadME.md",
     "Untitled.canvas",
-    "Rules/Q24 Rules Changes.md",
-    "Rules/EV.8 Shutdown System/EV.8.3 AMS.md",
-    "Components Info/Cascadia CM200DX.md",
     "Datasheets/EnepaqVTC6A_Battery/Test of Sony US18650VTC6 3000mAh (Green).pdf",
-    "Daily Notes/2023-10-10.md",
     "assets/EV Block Diagram.drawio.pdf",
     "assets/Shutdown Circuit Diagram.png",
     "Excalidraw",

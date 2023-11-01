@@ -35,7 +35,7 @@ Note*: Need 180 Cell option to ensure isolation between segments (DIFFERENT than
 - 1 PWM output (for modulated cooling control)
 	- needs external board with pull up resistor
 	- open drain type gate
-	- [[Temp Monitor Board]]
+	- [[Temp Monitor PCB]]
 - Current sensor 
 	- Hall effect based
 	- Orion 2 Current Sensor (SKU)
@@ -126,10 +126,10 @@ Note*: Need 180 Cell option to ensure isolation between segments (DIFFERENT than
 - Temperature Sensors
 	- FSAE rules
 		- [[EV.8.3 AMS]] must monitor minimum 20% of all cells
-		- [[Temp Monitor Board]] monitors 100% of cells
+		- [[Temp Monitor PCB]] monitors 100% of cells
 	- Orion BMS Support 8 Temperature sensors
 	- Sensors and wires needed to ensure absolute safety in case of QFSAE custom board failure
-	- allows double monitoring of accumulator temperature ([[Temp Monitor Board]] + BMS)
+	- allows double monitoring of accumulator temperature ([[Temp Monitor PCB]] + BMS)
 - Crimps
 	- Mentioned in previous section [[Orion 2 BMS#BMS CRIMPS|BMS Crimps]] 
 

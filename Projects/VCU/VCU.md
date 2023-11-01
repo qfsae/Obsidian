@@ -38,7 +38,7 @@ Further information will be available on the VCU shortly. Currently, the V0.0 pr
 
 ## Relevant Documents
 - [[Orion 2 BMS]]
-- [[Temp Monitor Board]]
+- [[Temp Monitor PCB]]
 - [[CAN bus]]
 - [[CAN Protocol (V6_2).pdf]]
 - [[CAN bus general info]]
