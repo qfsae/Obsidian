@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Temp Monitor Board.md",
+                "file": "Projects/Remote Monitoring Dashboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -215,18 +215,19 @@
   },
   "active": "1cd64a65036f73a5",
   "lastOpenFiles": [
-    "Projects/VCU/Required Sensor Readings.md",
-    "Projects/Remote Monitoring Dashboard.md",
-    "Projects/VCU/VCU Exposed Hardware.md",
     "Projects/VCU/VCU WiFi Expansion Card.md",
     "Projects/VCU/VCU.md",
-    "Projects/Remote Monitoring Firmware.md",
+    "Projects/Temp Monitor Board.md",
+    "CAN Bus/CAN bus.md",
+    "Projects/VCU/VCU WiFi Module Firmware.md",
+    "Projects/Remote Monitoring Dashboard.md",
+    "Projects/VCU/Required Sensor Readings.md",
+    "Projects/VCU/VCU Exposed Hardware.md",
     "Projects/VCU",
     "Projects/Precharge Control.md",
     "hi.md",
     "Projects/Discharge Circuit.md",
     "Rules/EV.7 Electrical Shutdown/EV.7.6 Overcurrent Protection.md",
-    "Projects/Temp Monitor Board.md",
     "Projects/BSPD.md",
     "Projects/Brake Light.md",
     "Projects/Accumulator Indication Panel.md",
@@ -239,7 +240,6 @@
     "Excalidraw/Mock Accumulator 0.0.md",
     "Excalidraw/Drawing 2023-10-18 21.55.10.excalidraw.md",
     "CAN Bus/CAN bus general info.md",
-    "CAN Bus/CAN bus.md",
     "Daily Notes/2023-10-17.md",
     "ReadME.md",
     "Untitled.canvas",

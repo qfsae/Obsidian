@@ -15,10 +15,11 @@ The purpose of this project is to construct a piece of software similar to that 
 	- Dial encoder view for steering angle
 	- text boxes and numerical values for control constants
 - Ability to pause data/graphs would be AMAZING!
+- Having a live [[CAN bus]] viewer would also be really useful
 - Bonus points for including something scalable across multiple monitors
 
 #### Data to be displayed
-This should not be used as the full list but would be a good starting point. Refer to [[VCU Exposed Hardware]] and [[Required Sensor Readings]] for a full list of things that would be helpful to view. If undetermined, error on the side of yes over no.
+This should not be used as the full list but would be a good starting point. Refer to [[VCU Exposed Hardware]] and [[Required Sensor Readings]] for a full list of things that would be helpful to view. Being able to view a live updating list of [[CAN bus]] messages would also be extremely helpful. If undetermined, error on the side of yes over no.
 - Wheel Speeds
 - Motor Current Draw
 - Battery Voltage
