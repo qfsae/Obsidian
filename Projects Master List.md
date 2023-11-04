@@ -144,7 +144,11 @@ All projects that are not part of the Tractive System. Primary Contact: Alex Wal
 #### Team
 - Project Manager: Allan Li Yang
 - Team Members:
-	- 
+	- Maaz Zafar
+   	- Jazib Ahmeh
+   	- Abdul Moez Akbar
+   	- Arjun Devnani
+   	- Bill Wei
 
 ### [[Brake Light]]
 #### Overview
