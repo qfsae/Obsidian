@@ -13,6 +13,7 @@
 	- [[#Dashboard]]
 	- [[#Brake Light]]
 	- [[#BSPD]]
+	- [[#VCU WiFi Expansion Card]]
 - [[#Firmware Projects]]
 	- [[#VCU WiFi Module Firmware]]
 	- [[#Temperature Monitoring Firmware]]
