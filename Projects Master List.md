@@ -167,6 +167,14 @@ All projects that are not part of the Tractive System. Primary Contact: Alex Wal
 - Team Members:
 	- 
 
+### [[VCU WiFi Expansion Card]]
+#### Overview
+- WiFi expansion card for the VCU
+#### Team
+- Project Manager: Alex Walsh
+- Team Members:
+	- Andersen Ma
+
 ### VCU Hardware
 #### Overview
 - Development of the Q24 VCU Hardware
