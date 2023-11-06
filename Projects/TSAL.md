@@ -32,7 +32,7 @@ https://www.snapeda.com/parts/4N35/Vishay%20Semiconductor%20Opto%20Division/view
 
 obsidian://open?vault=Obsidian&file=assets%2FData%20Sheet%20500V.pdf
 
-G
+
 
 Differential Comparator, get through hole for easy soldering
 https://www.ti.com/lit/ds/symlink/lm211.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1698680288064&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm211
