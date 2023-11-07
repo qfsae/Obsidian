@@ -1,6 +1,9 @@
 # Q24 Elec/Firm Projects Master List
 All Q24 Projects are contained within this list. Each project in this list includes a brief overview of the project, who's managing it and who's working on it.
 
+Finished projects:
+	Should be marked with `~~` to indicate that they are ~~completed~~.
+
 ## Projects Index
 - [[#HV Research Projects]]
 	- [[#Charging Research]]
