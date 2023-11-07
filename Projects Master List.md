@@ -1,4 +1,5 @@
 # Q24 Elec/Firm Projects Master List
+All Q24 Projects are contained within this list. Each project in this list includes a brief overview of the project, who's managing it and who's working on it.
 
 ## Projects Index
 - [[#HV Research Projects]]
@@ -9,6 +10,12 @@
 	- [[#Maintenance Plugs]]
 	- [[#~~ TS Connectors ~~]]
 - [[#HV Design Projects]]
+	- [[#Discharge Circuit]]
+	- [[#Precharge Control]]
+	- [[#Temp Monitor PCB]]
+	- [[#TSAL]]
+	- [[#Voltage Indicator PCB]]
+	- [[#Accumulator Indication Panel]]
 - [[#Grounded Low Voltage Projects]]
 	- [[#Dashboard]]
 	- [[#Brake Light]]
@@ -89,7 +96,7 @@ Design of PCBs and circuitry that interact with anything defined as [[T.9 Electr
 #### Team
 - Project Manager: Jacob Chisholm
 - Team Members:
-	- 
+	- Matthew Wu
 
 ### [[Precharge Control]]
 ### Overview
@@ -100,16 +107,16 @@ Design of PCBs and circuitry that interact with anything defined as [[T.9 Electr
 #### Team
 - Project Manager: Jacob Chisholm
 - Team Members:
-	- 
+	- Charlotte Goobie
 
 
 ### [[Temp Monitor PCB]]
 #### Overview
 - Design a PCB to monitor temperatures of battery cells
 #### Team
-- Project Manager: Alex Walsh
+- Project Manager: Jacob Chisholm
 - Team Members:
-	- 
+	- Gavin Cox
 
 ### [[TSAL]]
 #### Overview
@@ -118,7 +125,8 @@ Design of PCBs and circuitry that interact with anything defined as [[T.9 Electr
 #### Team
 - Project Manager: Alex Walsh
 - Team Members:
-	- 
+	- Maddy O-Brien - High Voltage Side
+	- Cole Sigal - Low Voltage Side
 
 ### [[Voltage Indicator PCB]]
 #### Overview
@@ -126,7 +134,8 @@ Design of PCBs and circuitry that interact with anything defined as [[T.9 Electr
 #### Team
 - Project Manager: Alex Walsh
 - Team Members:
-	- 
+	- Pippa Mulcahy
+	- Nikola Steele
 
 ### [[Accumulator Indication Panel]]
 #### Overview
@@ -158,7 +167,7 @@ All projects that are not part of the Tractive System. Primary Contact: Alex Wal
 #### Team
 - Project Manager: Alex Walsh
 - Team Members:
-	- 
+	- Jack Merker
 
 ### [[BSPD]]
 #### Overview
