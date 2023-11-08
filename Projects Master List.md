@@ -204,9 +204,9 @@ All software and firmware projects. Primary Contact: Jacob Chisholm.
 #### Overview
 - Developing the firmware to enable WiFi connectivity on the VCU through an external WiFi module
 #### Team
-- Project Manager:
+- Project Manager: Jacob Chisholm
 - Team Members:
-	- 
+	- Ethan Parliament
 
 ### [[Temperature Monitoring Firmware]]
 #### Overview
