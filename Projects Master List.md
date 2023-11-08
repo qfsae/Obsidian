@@ -241,3 +241,4 @@ All software and firmware projects. Primary Contact: Jacob Chisholm.
 - Project Manager: Jacob Chisholm
 - Team Members:
 	- Josh Allen
+	- Matt Dobaj
