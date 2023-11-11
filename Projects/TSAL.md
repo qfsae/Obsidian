@@ -42,3 +42,4 @@ https://www.digikey.ca/en/products/detail/texas-instruments/NE555P/277057
 https://www.snapeda.com/parts/NE555P/Texas%20Instruments/view-part/
 
 
+high voltage resistor 

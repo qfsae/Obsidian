@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects Master List.md",
+                "file": "Projects/TSAL.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects Master List.md",
+                "file": "Projects/TSAL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects Master List.md",
+                "file": "Projects/TSAL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects Master List.md"
+                "file": "Projects/TSAL.md"
               }
             }
           }
@@ -215,17 +215,17 @@
   },
   "active": "1cd64a65036f73a5",
   "lastOpenFiles": [
+    "Projects/Temperature Monitoring Firmware.md",
+    "Projects Master List.md",
     "Projects/VCU/Required Sensor Readings.md",
     "Projects/VCU/VCU.md",
     "Projects/VCU/VCU WiFi Module Firmware.md",
     "Projects/VCU/VCU WiFi Expansion Card.md",
     "Projects/VCU/VCU Exposed Hardware.md",
-    "Projects/Temperature Monitoring Firmware.md",
     "Projects/Temp Monitor PCB.md",
     "Projects/Remote Monitoring Dashboard.md",
     "Projects/Dashboard Software.md",
     "Projects/Dashboard.md",
-    "Projects Master List.md",
     "CAN Bus/CAN bus.md",
     "Projects/VCU",
     "Projects/Precharge Control.md",
