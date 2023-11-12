@@ -6,7 +6,6 @@
       {
         "id": "b674543d4852d9b8",
         "type": "tabs",
-        "dimension": 61.461794019933556,
         "children": [
           {
             "id": "1cd64a65036f73a5",
@@ -14,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/TSAL.md",
+                "file": "CAN Bus/Dashboard CAN Protocol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d825e616f7595a50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAN Bus/CAN bus.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,26 +67,8 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "27634585089bf308",
-        "type": "tabs",
-        "dimension": 38.53820598006645,
-        "children": [
-          {
-            "id": "5470c20ab98649fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects Master List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/TSAL.md",
+                "file": "CAN Bus/CAN bus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/TSAL.md",
+                "file": "CAN Bus/CAN bus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,12 +182,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/TSAL.md"
+                "file": "CAN Bus/CAN bus.md"
               }
             }
+          },
+          {
+            "id": "691e296f5437fc0c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,23 +210,34 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "notion-like-tables:Create Notion-Like table": false
+      "excel:Create Excel File": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1cd64a65036f73a5",
+  "active": "d825e616f7595a50",
   "lastOpenFiles": [
-    "Projects/Temperature Monitoring Firmware.md",
+    "Parts Checkout.md",
+    "CAN Bus/Dashboard CAN Protocol.md",
+    "CAN Bus/CAN bus general info.md",
+    "CAN Bus/CAN bus.md",
+    "Excel 2023-11-12 13.12.47.sheet.md",
+    "CAN Bus/CAN ID List.table",
     "Projects Master List.md",
+    "Onboarding.md",
+    "Untitled.loom",
+    "Parts Checkout.csv",
+    "New Text Document.txt",
     "Projects/VCU/Required Sensor Readings.md",
     "Projects/VCU/VCU.md",
     "Projects/VCU/VCU WiFi Module Firmware.md",
     "Projects/VCU/VCU WiFi Expansion Card.md",
     "Projects/VCU/VCU Exposed Hardware.md",
+    "Projects/Temperature Monitoring Firmware.md",
     "Projects/Temp Monitor PCB.md",
     "Projects/Remote Monitoring Dashboard.md",
     "Projects/Dashboard Software.md",
     "Projects/Dashboard.md",
-    "CAN Bus/CAN bus.md",
     "Projects/VCU",
     "Projects/Precharge Control.md",
     "hi.md",
@@ -239,21 +250,11 @@
     "Designs",
     "Designs/ModuleAMS.md",
     "assets/Data Sheet 500V.pdf",
-    "Onboarding.md",
-    "New Text Document.txt",
-    "Excalidraw/Mock Accumulator 0.0.md",
-    "Excalidraw/Drawing 2023-10-18 21.55.10.excalidraw.md",
-    "CAN Bus/CAN bus general info.md",
-    "Daily Notes/2023-10-17.md",
-    "ReadME.md",
     "Untitled.canvas",
     "Datasheets/EnepaqVTC6A_Battery/Test of Sony US18650VTC6 3000mAh (Green).pdf",
     "assets/EV Block Diagram.drawio.pdf",
     "assets/Shutdown Circuit Diagram.png",
     "Excalidraw",
-    "Datasheets/EnepaqVTC6A_Battery/VTC6-Sony-Murata-Li-ion-Battery-Module-With-Temperature-Sensor-Datasheet-Tesla-Battery-Sponsorship-Formula-SAE-Electric-Formula-Student-Battery-Pack.pdf",
-    "Datasheets/Orion_BMS/orionbms2_wiring_manual.pdf",
-    "Projects/Untitled",
     "FSAE Rulez/Attachments/Image_002.png",
     "FSAE Rulez/Attachments/Image_084.png",
     "FSAE Rulez/Attachments/Image_077.png",

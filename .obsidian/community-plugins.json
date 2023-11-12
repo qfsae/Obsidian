@@ -2,6 +2,7 @@
   "obsidian-git",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-excalidraw-plugin",
-  "csv-obsidian",
-  "notion-like-tables"
+  "excel",
+  "obsidian-import-json",
+  "table-editor-obsidian"
 ]
