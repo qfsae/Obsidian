@@ -13,8 +13,4 @@ Look to CAN ID List for full list of addresses in `/CAN Bus/CAN ID List`
 - Dashboard
 	- [[Dashboard CAN Protocol]]
 	- Base ID:
-- ECU
-	- [[ECU CAN Protocol]]
-	- Base ID 1:
-	- Base ID 2:
-
+- VCU:
