@@ -230,7 +230,7 @@ All software and firmware projects. Primary Contact: Jacob Chisholm.
 #### Overview
 - Developing a desktop app for monitoring/tuning the car
 #### Team
-- Project Manager: Jacob Chisholm
+- Project Manager: Luke Strickland
 - Team Members:
 	- Bill Wei
 
