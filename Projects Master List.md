@@ -188,6 +188,7 @@ All projects that are not part of the Tractive System. Primary Contact: Alex Wal
 - Team Members:
 	- Andersen Ma
 	- Michael Robles
+	- Oliver Morrow
 
 ### VCU Hardware
 #### Overview
