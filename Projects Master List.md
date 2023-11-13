@@ -42,7 +42,7 @@ High Voltage research is a great way to get involved in the High Voltage design 
 #### Team
 - Project Manager: Jacob Chisholm
 - Team Members:
-	- 
+	- Amit Altman
 
 ### ~~[[HVD Research]]~~
 #### Overview
