@@ -234,6 +234,7 @@ All software and firmware projects. Primary Contact: Jacob Chisholm.
 - Project Manager: Luke Strickland
 - Team Members:
 	- Bill Wei
+	- Wallace Su
 
 ### [[VCU]] Firmware Projects
 #### Overview
