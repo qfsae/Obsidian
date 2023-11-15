@@ -225,7 +225,11 @@ All software and firmware projects. Primary Contact: Jacob Chisholm.
 #### Team
 - Project Manager: Allan Li Yang
 - Team Members:
-	- 
+	- Maaz Zafar
+	- Jazib Ahmeh
+	- Abdul Moez Akbar
+	- Arjun Devnani
+	- Bill Wei
 
 ### [[Remote Monitoring Dashboard]] Software
 #### Overview
