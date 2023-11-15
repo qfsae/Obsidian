@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAN Bus/CAN bus.md",
+                "file": "Projects Master List.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAN Bus/CAN bus.md",
+                "file": "Projects Master List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CAN Bus/CAN bus.md",
+                "file": "Projects Master List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CAN Bus/CAN bus.md"
+                "file": "Projects Master List.md"
               }
             }
           },
@@ -209,18 +209,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "excel:Create Excel File": false,
-      "obsidian-import-json:JSON/CSV Importer": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "d825e616f7595a50",
   "lastOpenFiles": [
+    "CAN Bus/CAN bus.md",
     "Parts Checkout.md",
     "CAN Bus/Dashboard CAN Protocol.md",
     "CAN Bus/CAN bus general info.md",
-    "CAN Bus/CAN bus.md",
     "Excel 2023-11-12 13.12.47.sheet.md",
     "CAN Bus/CAN ID List.table",
     "Projects Master List.md",

@@ -100,7 +100,8 @@ Design of PCBs and circuitry that interact with anything defined as [[T.9 Electr
 - Project Manager: Jacob Chisholm
 - Team Members:
 	- Matthew Wu
-
+Rachel Millar
+Jaime Smith
 ### [[Precharge Control]]
 ### Overview
 - Examine the plausibility of using the Inverter precharge relay (rules)
