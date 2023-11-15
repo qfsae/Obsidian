@@ -12,3 +12,6 @@ As always, the rules listed below are for reference only. They may be incomplete
 - [[EV.7.5 Voltage Separation]]
 - [[EV.7.6 Overcurrent Protection]]
 - [[EV.7.7 Grounding]]
+
+
+Parts List
