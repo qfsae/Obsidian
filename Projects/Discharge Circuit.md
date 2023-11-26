@@ -15,3 +15,4 @@ As always, the rules listed below are for reference only. They may be incomplete
 
 
 Parts List
+Resistor (1.5kOhm, rated for 500V): https://www.mouser.ca/ProductDetail/Vishay-Dale/CCF601K50FKE36?qs=sGAEpiMZZMukHu%252BjC5l7YeP%252BEalnu2hYADXG1HxOAxQ%3D
