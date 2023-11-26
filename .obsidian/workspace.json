@@ -4,119 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "9d586d6957d2535e",
+        "id": "b674543d4852d9b8",
         "type": "tabs",
         "children": [
           {
-            "id": "dbcd76f675a1c9ba",
+            "id": "d825e616f7595a50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects Master List.md",
+                "file": "Projects/Discharge Circuit.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1a343b5abf47fa9d",
+            "id": "ddd57884fca4ff9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Component Research/Charging Research.md",
+                "file": "Rules/EV.7 Electrical Shutdown/EV.7.6 Overcurrent Protection.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6f354333689824a5",
+            "id": "ccde6674a1c05940",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/EV.9 Charging/EV.9 Charging.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9924c2aaed4fae03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/IN.4 Electrical Technical Inspection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fef7709bb112a80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/EV.9 Charging/EV.9.2 Charger Features.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63cb58843e44d587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/EV.6 Energy Storage/EV.6.8 TSMP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "066451810e35e865",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/EV.9 Charging/EV.9.3 Charging Shutdown Circuit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c29468cd2c9dedf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/EV.8 Shutdown System/EV.8.3 AMS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08cf51dd2b6f6a44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/EV.8 Shutdown System/EV.8.6 IMD.md",
+                "file": "Daily Notes/2023-10-10.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Component Research/Charging Research.md",
+                "file": "Projects/Discharge Circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Component Research/Charging Research.md",
+                "file": "Projects/Discharge Circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Component Research/Charging Research.md"
+                "file": "Projects/Discharge Circuit.md"
               }
             }
           },
@@ -260,38 +187,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1a343b5abf47fa9d",
+  "active": "d825e616f7595a50",
   "lastOpenFiles": [
+    "Component Research/Battery Research.md",
     "Projects Master List.md",
-    "Rules/EV.9 Charging/EV.9.3 Charging Shutdown Circuit.md",
-    "Rules/EV.6 Energy Storage/EV.6.8 TSMP.md",
-    "Rules/EV.9 Charging/EV.9.2 Charger Features.md",
-    "Rules/EV.9 Charging/EV.9 Charging.md",
-    "Component Research/Charging Research.md",
-    "Rules/EV.8 Shutdown System/EV.8.3 AMS.md",
-    "Rules/EV.8 Shutdown System/EV.8.6 IMD.md",
-    "Rules/IN.4 Electrical Technical Inspection.md",
-    "Rules/T.9 Electrical Equipment.md",
-    "HV Master List.md",
-    "Component Research/High Voltage Connectors Research.md",
-    "Component Research/Cascadia CM200DX Ordering.md",
-    "Parts Checkout.md",
-    "Projects/Temp Monitor PCB.md",
-    "Projects/Remote Monitoring Dashboard.md",
-    "Projects/Discharge Circuit.md",
-    "Projects/TSAL.md",
-    "Onboarding.md",
-    "CAN Bus/CAN bus general info.md",
-    "Daily Notes/2023-10-10.md",
+    "Rules/EV.6 Energy Storage/EV.6.6 Precharge and Discharge.md",
     "Rules/EV.7 Electrical Shutdown/EV.7.6 Overcurrent Protection.md",
+    "Rules/EV.6 Energy Storage/EV.6.5 High Voltage Disconnect.md",
     "CAN Bus/Dashboard CAN Protocol.md",
+    "Daily Notes/2023-10-10.md",
+    "CAN Bus/CAN bus general info.md",
+    "Projects/Discharge Circuit.md",
+    "Rules/EV.8 Shutdown System/EV.8.1 Shutdown Circuit.md",
+    "Projects/Voltage Indicator PCB.md",
+    "Datasheets/FSAE_Rules_2023_V2.pdf",
+    "Onboarding.md",
+    "Components Info/Cascadia CM200DX.md",
     "CAN Bus/CAN bus.md",
+    "Parts Checkout.md",
     "Excel 2023-11-12 13.12.47.sheet.md",
     "CAN Bus/CAN ID List.table",
     "Untitled.loom",
     "Parts Checkout.csv",
     "New Text Document.txt",
     "Projects/VCU/Required Sensor Readings.md",
+    "Projects/VCU/VCU.md",
+    "Projects/VCU/VCU WiFi Module Firmware.md",
+    "Projects/VCU/VCU WiFi Expansion Card.md",
+    "Projects/VCU/VCU Exposed Hardware.md",
+    "Projects/Temperature Monitoring Firmware.md",
+    "Projects/Temp Monitor PCB.md",
+    "Projects/Remote Monitoring Dashboard.md",
+    "Projects/Dashboard Software.md",
+    "Projects/Dashboard.md",
     "Projects/VCU",
     "Shutdown Circuit 0V0.canvas",
     "Designs",
@@ -300,7 +228,6 @@
     "Datasheets/EnepaqVTC6A_Battery/Test of Sony US18650VTC6 3000mAh (Green).pdf",
     "assets/EV Block Diagram.drawio.pdf",
     "assets/Shutdown Circuit Diagram.png",
-    "Excalidraw",
     "FSAE Rulez/Attachments/Image_002.png",
     "FSAE Rulez/Attachments/Image_084.png",
     "FSAE Rulez/Attachments/Image_077.png",
