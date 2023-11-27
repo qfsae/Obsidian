@@ -16,4 +16,4 @@ As always, the rules listed below are for reference only. They may be incomplete
 
 Parts List
 Resistor (1.5kOhm, rated for 500V): https://www.mouser.ca/ProductDetail/Vishay-Dale/CCF601K50FKE36?qs=sGAEpiMZZMukHu%252BjC5l7YeP%252BEalnu2hYADXG1HxOAxQ%3D
-Eyelet(M10): https://amazon.com/ELECFUN-Battery-Terminal-Connectors%EF%BC%8CTubular-Terminals/dp/B09CKRGKNX/ref=sr_1_6?hvadid=631557517576&hvdev=c&hvlocint=9031916&hvlocphy=9000712&hvnetw=g&hvqmt=e&hvrand=10051544628316910548&hvtargid=kwd-1240086435284&hydadcr=7698_13589724&keywords=m10%2Beyelets&qid=1701029538&sr=8-6&th=1
+Eyelet (M10): https://amazon.com/ELECFUN-Battery-Terminal-Connectors%EF%BC%8CTubular-Terminals/dp/B09CKRGKNX/ref=sr_1_6?hvadid=631557517576&hvdev=c&hvlocint=9031916&hvlocphy=9000712&hvnetw=g&hvqmt=e&hvrand=10051544628316910548&hvtargid=kwd-1240086435284&hydadcr=7698_13589724&keywords=m10%2Beyelets&qid=1701029538&sr=8-6&th=1
