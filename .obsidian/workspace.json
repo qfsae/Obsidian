@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b674543d4852d9b8",
+        "id": "dcd5c55d1689a3e1",
         "type": "tabs",
         "children": [
           {
-            "id": "d825e616f7595a50",
+            "id": "80049863b7cba187",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Discharge Circuit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddd57884fca4ff9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/EV.7 Electrical Shutdown/EV.7.6 Overcurrent Protection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccde6674a1c05940",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2023-10-10.md",
+                "file": "Rules/EV.9 Charging/EV.9.3 Charging Shutdown Circuit.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Discharge Circuit.md",
+                "file": "Rules/EV.9 Charging/EV.9.3 Charging Shutdown Circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Discharge Circuit.md",
+                "file": "Rules/EV.9 Charging/EV.9.3 Charging Shutdown Circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Discharge Circuit.md"
+                "file": "Rules/EV.9 Charging/EV.9.3 Charging Shutdown Circuit.md"
               }
             }
           },
@@ -187,17 +163,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d825e616f7595a50",
+  "active": "80049863b7cba187",
   "lastOpenFiles": [
+    "Rules/EV.8 Shutdown System/EV.8.3 AMS.md",
+    "Rules/EV.9 Charging/EV.9.3 Charging Shutdown Circuit.md",
+    "Rules/EV.8 Shutdown System/EV.8.6 IMD.md",
+    "Component Research/Charging Research.md",
+    "Untitled.md",
+    "Daily Notes/2023-10-10.md",
+    "Rules/EV.7 Electrical Shutdown/EV.7.6 Overcurrent Protection.md",
+    "Projects/Discharge Circuit.md",
     "Component Research/Battery Research.md",
     "Projects Master List.md",
     "Rules/EV.6 Energy Storage/EV.6.6 Precharge and Discharge.md",
-    "Rules/EV.7 Electrical Shutdown/EV.7.6 Overcurrent Protection.md",
     "Rules/EV.6 Energy Storage/EV.6.5 High Voltage Disconnect.md",
     "CAN Bus/Dashboard CAN Protocol.md",
-    "Daily Notes/2023-10-10.md",
     "CAN Bus/CAN bus general info.md",
-    "Projects/Discharge Circuit.md",
     "Rules/EV.8 Shutdown System/EV.8.1 Shutdown Circuit.md",
     "Projects/Voltage Indicator PCB.md",
     "Datasheets/FSAE_Rules_2023_V2.pdf",
@@ -215,11 +196,6 @@
     "Projects/VCU/VCU WiFi Module Firmware.md",
     "Projects/VCU/VCU WiFi Expansion Card.md",
     "Projects/VCU/VCU Exposed Hardware.md",
-    "Projects/Temperature Monitoring Firmware.md",
-    "Projects/Temp Monitor PCB.md",
-    "Projects/Remote Monitoring Dashboard.md",
-    "Projects/Dashboard Software.md",
-    "Projects/Dashboard.md",
     "Projects/VCU",
     "Shutdown Circuit 0V0.canvas",
     "Designs",
