@@ -1,35 +1,40 @@
 # Vehicle Control Unit
 ## Purpose
-The VCU is the replacement for the MoTec ECU previously used in the teams IC cars. It serves as both the GLV power distribution network, similar to MoTec's PDM, and as the "brains" of the car.
-
-This is the teams first major firmware project, involving all aspects of programming from writing interface drivers for the ARM chip's peripherals to writing the torque control logic for the motor.
+The VCU (Vehicle Control Unit) is the replacement for the MoTec ECU previously used in the teams IC cars. 
+It serves as both the GLV power distribution network, similar to MoTec's PDM, and as the main control unit for the car.
 
 In addition to controlling the motor and providing LV power to the car, the VCU is also responsible for numerous rules safety and plausibility checks.
 
-Further information will be available on the VCU shortly. Currently, the V0.0 prototype is undergoing design review will be manufactured shortly. In the meantime, there are several firmware projects that can be completed on STM32 ARM development boards. A short list of some of the things required on the VCU is shown below:
-- Wheel Speed PWM decoding
-- Filesystem Implementation / Management
-- Timer Interrupts
-- CAN Bus Drivers/Interrupts
-- Live Telemetry
-	- ESP32 WiFi Driver
-	- Telemetry Dashboard (Remote Program)
-	- ESP32 WiFi Data Transmission
-- ADC Drivers/Interrupts
-- Motor Torque/Speed Controller
-	- Traction Control
-	- Acceleration Control
-	- Regeneration Braking
-- Brake Pressure Device Drivers (Analog Conversion)
-- Throttle Pedal Device Drivers (Analog Conversion)
-- Emergency Fault Handling
-- RTOS Scheduling
-- CAN Bus Device Drivers
-	- Cascadia CM200DX
-	- Orion 2 BMS
-	- Temperature Monitor
-	- Dashboard
-- Lots and Lots of OS programming + Many More Projects (Including Integration)
+### Technical Requirements
+- ADC - Analog to Digital Conversions
+	- Steering
+	- Throttle Pedals
+	- Brake Pedals
+	- Temperature Sensors
+- DSP - Digital Signal Processing
+	- Wheel Speed Sensors (PWM)
+- Communications
+	- 2x CAN Bus Interfaces
+		- [[Orion 2 BMS]]
+		- [[Cascadia CM200DX]]
+	- I2C Ride Height Sensors (*double check with aero*)
+- Power
+	- Cooling Pump Control (24V)
+	- Sensors Power
+		- Steering (12V)
+		- Throttle Pedals (5V)
+		- Brake (12V)
+		- Temp Sensors (12V)
+		- Wheel Speed (12V)
+		- Suspension LinPots (12V)
+	- Data Logger (24V)
+	- BMS (12V)
+	- Accumulator Temperature Monitor
+	- [[Cascadia CM200DX]] Inverters (24V)
+	- [[EV.6.4 Accumulator Isolation Relays|Isolation Relays]] (12V)
+	- Dashboard (24V)
+	- Safety Lights
+
 
 ## Rules
 - [[EV.5.7 APPS & Brake Plausibility Check]]
