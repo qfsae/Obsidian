@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAN Bus/CAN bus.md",
+                "file": "CAN Bus/CAN ID Master List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAN Bus/CAN bus.md",
+                "file": "CAN Bus/CAN ID Master List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CAN Bus/CAN bus.md",
+                "file": "CAN Bus/CAN ID Master List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CAN Bus/CAN bus.md"
+                "file": "CAN Bus/CAN ID Master List.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "fe65d905f7e6a833",
   "lastOpenFiles": [
+    "CAN Bus/CAN bus.md",
     "Projects/VCU/VCU V2.md",
     "Projects/VCU/VCU V1.md",
     "Projects/VCU/Functional Requirements.md",
