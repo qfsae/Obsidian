@@ -1,1 +1,0 @@
-Refer to [[Temp Monitor PCB]] for info until this page is completed.

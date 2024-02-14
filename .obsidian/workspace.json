@@ -13,7 +13,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAN Bus/CAN ID Master List.md",
+                "file": "Component Research/Precharge Research.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1d4f01c7e8196162",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37829974e9716156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/EV.7 Electrical Shutdown/EV.7.6 Overcurrent Protection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "227df7a024b9d88c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/EV.6 Energy Storage/EV.6.2 Electrical Configuration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAN Bus/CAN ID Master List.md",
+                "file": "Component Research/Precharge Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CAN Bus/CAN ID Master List.md",
+                "file": "Component Research/Precharge Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CAN Bus/CAN ID Master List.md"
+                "file": "Component Research/Precharge Research.md"
               }
             }
           }
@@ -149,23 +179,36 @@
   },
   "active": "fe65d905f7e6a833",
   "lastOpenFiles": [
-    "CAN Bus/CAN bus.md",
-    "Projects/VCU/VCU V2.md",
-    "Projects/VCU/VCU V1.md",
-    "Projects/VCU/Functional Requirements.md",
-    "Projects/VCU/VCU Exposed Hardware.md",
-    "Projects/VCU/VCU.md",
-    "Projects/VCU/Required Sensor Readings.md",
-    "Rules/T.9 Electrical Equipment.md",
-    "Component Research/Cascadia CM200DX Ordering.md",
-    "CAN Bus/CAN ID Master List.md",
-    "Projects/TSAL.md",
-    "HV Master List.md",
-    "Daily Notes/2023-11-11.md",
-    "Components Info/Orion 2 BMS.md",
+    "Component Research/Orion 2 BMS Ordering.md",
+    "Component Research/Maintenance Plugs.md",
+    "Component Research/Isolation Relays.md",
+    "Component Research/HVD Research.md",
+    "Component Research/High Voltage Connectors Research.md",
+    "Component Research/Fuse Research.md",
     "Component Research/Charging Research.md",
-    "Rules/EV.5 Components/EV.5.4 Grounded Low Voltage System.md",
-    "Rules/EV.6 Energy Storage/EV.6.3 Maintenance Plugs.md",
-    "Rules/EV.5 Components/EV.5.3 Accumulator Container.md"
+    "Component Research/Cascadia CM200DX Ordering.md",
+    "Component Research/Battery Research.md",
+    "Rules/EV.7 Electrical Shutdown/EV.7.6 Overcurrent Protection.md",
+    "Rules/EV.6 Energy Storage/EV.6.4 Accumulator Isolation Relays.md",
+    "Rules/EV.6 Energy Storage/EV.6.2 Electrical Configuration.md",
+    "Component Research/IMD Ordering.md",
+    "ReadME.md",
+    "Components Info/Orion 2 BMS.md",
+    "Documentation/Tractive Documentation.md",
+    "Shutdown Circuit 0V0.canvas",
+    "Documentation/Accumulator Documentation.md",
+    "Documentation/VCU V2 Documentation.md",
+    "Projects/Projects Master List.md",
+    "Projects/VCU/VCU WiFi Expansion Card.md",
+    "Projects/VCU/VCU V2.md",
+    "Projects/VCU/VCU.md",
+    "Projects/VCU/VCU V1.md",
+    "Projects/Low Voltage",
+    "Projects/High Voltage",
+    "Team Info/Parts Checkout.md",
+    "Team Info/Onboarding.md",
+    "Team Info",
+    "Documentation/HV Master List (OLD).md",
+    "Documentation"
   ]
 }

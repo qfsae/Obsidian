@@ -1,21 +1,6 @@
 # Version 2 Iteration of the Vehicle Control Unit
 
-## Changelog
-Changelog from V1
-- Added in relay/MOSFET control for coolant pumps
-- Updated power rails/conversion to support 24V
-- Added 24V -> 12V Buck Converter
-- Added EEPROM
-- Shift registers moved onto single SPI bus with CS (latch) pins
-- Added two 7 segment displays for error reporting
-- Fixed Indication light resistors
-- Added Indication lights for load switches
-- Changed CAN Bus transceivers
-- Added I2C Current Sensors for all power rails
-- Added Fusing for Battery inputs / high current outputs
-- Added Fusing as galvanic isolation for all power rails
-- Reduced board size to 115x130 mm
-- Increased current output to 3A on all power outputs
+See [[VCU V2]] for the changelog
 
 ## Technical Notes
 The VCU consists of 3 components that can be split into 9 subsections: Sensor Input, Debug Output, and Power Distribution. 
@@ -61,8 +46,14 @@ A single fuse with a maximum rating of 40A is also placed near the board power i
 
 #### Power Rails
 The board has a 12V and a 5V rail that feed off of the 24V battery power. Each rail is powered by a buck converter capable of carrying a maximum current of 20A.
+*Note: The 12V and 5V Rails are always on, the 24V rail requires and enable*
 
 #### Load Switches
 All load switches are rated to a maximum current of 3A. Each load switch has an LED placed on its enable line. The LEDs are placed near the output connector for said load switch. There are 6 load switches for the 5V and 12V rails and 8 switches for the 24V rail.
 All load switches are controlled via shift registers. Shift registers are loaded through the SPI2 interface and store the loaded value once the latch line has been pulsed.
 
+### EEPROM
+*Note:* The EPROM currently selected is an STM EEPROM soldered onto the board. It will be exchanged for a suitable DIP package before the design is manufactured.
+
+### Onboard References
+ADC inputs 0, 1, and 13 are used to sense the 24V, 12V, and 5V rails. Several INA219 voltage and current sensors are also placed on the board to monitor the power usage of the power rails as well as for closed loop control on the coolant pumps.

@@ -1,6 +1,6 @@
 # Battery Research
-In order to compare all batteries equally, several assumptions were made. After the assumptions were applied, each battery cell was compared on weight, cost, energy capacity and number of cells needed.
-The assumptions are listed below
+
+Assumptions made for battery research
 - Maximum voltage of 460VDC
 - Minimum discharge current of 180A
 - Minimum capacity of 7.5kWh

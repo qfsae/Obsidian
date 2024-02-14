@@ -37,5 +37,4 @@ This should not be used as the full list but would be a good starting point. Ref
 
 ## Relevant Documents
 - [[VCU WiFi Expansion Card]]
-- [[VCU Exposed Hardware]]
 - [[VCU WiFi Module Firmware]]

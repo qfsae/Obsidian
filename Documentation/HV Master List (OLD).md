@@ -13,8 +13,8 @@ List of all parts associated with the HV (High Voltage) System
 - Accumulator to Inverter Connector
 	- Must adhere to [[EV.6.10 TS Connectors]]
 #### Other Parts (may include [[EV.8.8 Interlocks]])
-- [[Sony VTC6]] batteries from [[Enepaq Sony VTC6|Enepaq]]
-	- See also bus bars and screw terminals from [[Enepaq Sony VTC6|Enepaq]]
+- [[Sony VTC6]] batteries from [[Sony VTC6|Enepaq]]
+	- See also bus bars and screw terminals from [[Sony VTC6|Enepaq]]
 	- 100s6p config -> 6 segments
 		- $18*4.2V_{DC}=84V_{DC}$
 		- $20*3.6V_{DC}=72V_{DC}$
