@@ -17,8 +17,11 @@ Folders are used as the primary organizational method. Obsidian document tags ca
 	- `/Shutdown` Contains information on the shutdown circuit
 	- `/VCU` Contains some preliminary information about the Vehicle Control Unit
 - Daily notes and design review notes are within the `/Daily Notes` folder. These contain notes from  various team meetings and design reviews. *This folder is mostly for use by the team lead/s*
-- `/Documentation` Is for team written documentation
+- `/Documentation` Is for **completed** team written documentation
 	- Custom PCB's, API's, ...
+- `/Designs` Is for in progress designs
+	- Tractive System block diagrams
+	- VCU block diagrams
 - `/Datasheets` Is used to store datasheets for purchased components
 - `/CAN Bus` Contains all information about the CAN Bus
 	- Protocols used by purchased devices

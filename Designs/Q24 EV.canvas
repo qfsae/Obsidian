@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"1d31839240257b51","x":-100,"y":340,"width":860,"height":700,"type":"group","label":"Front Loom"},
+		{"id":"909b4ace3f9aab3a","x":-80,"y":360,"width":250,"height":241,"type":"text","text":"# Pedal Box\n- Dual TPS\n- Dual BPS\n- BOTS"},
+		{"id":"d32a9621e8f1ec23","x":280,"y":360,"width":389,"height":321,"type":"text","text":"# Driver\n- Steering Angle Sensor\n- Emergency Stop\n- TS Enable Button\n- Dashboard\n\t- VBATT Power\n\t- CAN Bus"},
+		{"id":"b4f574abb571b350","x":-80,"y":640,"width":320,"height":240,"type":"text","text":"# Drivetrain\n- FL Wheel Speed\n- FL/FR Wheel Speeds\n- FL/FR Suspension Pots\n- Front Ride Height?"},
+		{"id":"a7f06ff88d246351","x":1120,"y":422,"width":560,"height":519,"type":"text","text":"# VCU\n- Analog Inputs\n\t- 6x 12V\n\t- 4x 5V\n- Digital Inputs\n\t- 4x 12V\n- Power\n\t- 8x 24V Power\n\t- 6x 12V Power\n\t- 6x 5V Power\n\t- 2x 24V Pump Control\n- Comms\n\t- 2x CAN Bus\n\t- 4x USART"},
+		{"id":"d189b4deabca9797","x":2080,"y":461,"width":280,"height":220,"type":"text","text":"# CM200 DX\n- CAN Bus\n- 24V Power"},
+		{"id":"2a3995081031ca6f","type":"text","text":"# CM200 DX\n- CAN Bus\n- 24V Power","x":2480,"y":461,"width":280,"height":220},
+		{"id":"6cde05cf5141fdbe","type":"text","text":"# Drivetrain\n- BL Wheel Speed\n- BL/BR Wheel Speeds\n- BL/BR Suspension Pots\n- BL/BR Ride Height?","x":2080,"y":760,"width":320,"height":240},
+		{"id":"5cb878c18c4301d2","x":1932,"y":180,"width":428,"height":168,"type":"text","text":"# Emrax 188HV\n"}
+	],
+	"edges":[]
+}
