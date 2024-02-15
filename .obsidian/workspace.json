@@ -11,11 +11,14 @@
             "id": "fe65d905f7e6a833",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "CAN Bus/CAN ID Master List.md",
-                "mode": "source",
-                "source": false
+                "file": "Designs/Q24 EV.canvas",
+                "viewState": {
+                  "x": 1768.4024626201458,
+                  "y": 291.42187126327565,
+                  "zoom": -0.9999999999999998
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAN Bus/CAN ID Master List.md",
+                "file": "Designs/Q24 EV.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CAN Bus/CAN ID Master List.md",
+                "file": "Designs/Q24 EV.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CAN Bus/CAN ID Master List.md"
+                "file": "Designs/Q24 EV.canvas"
               }
             }
           }
@@ -149,23 +152,38 @@
   },
   "active": "fe65d905f7e6a833",
   "lastOpenFiles": [
-    "CAN Bus/CAN bus.md",
-    "Projects/VCU/VCU V2.md",
-    "Projects/VCU/VCU V1.md",
-    "Projects/VCU/Functional Requirements.md",
-    "Projects/VCU/VCU Exposed Hardware.md",
-    "Projects/VCU/VCU.md",
-    "Projects/VCU/Required Sensor Readings.md",
-    "Rules/T.9 Electrical Equipment.md",
-    "Component Research/Cascadia CM200DX Ordering.md",
-    "CAN Bus/CAN ID Master List.md",
-    "Projects/TSAL.md",
-    "HV Master List.md",
-    "Daily Notes/2023-11-11.md",
-    "Components Info/Orion 2 BMS.md",
+    "Rules/EV.10 Vehicle Operations.md",
+    "Rules/EV.4 Electrical Limitations.md",
+    "Designs/Q24 EV.canvas",
+    "Projects/Low Voltage/Dashboard.md",
+    "Designs",
+    "Component Research/Precharge Research.md",
+    "Component Research/Orion 2 BMS Ordering.md",
+    "Component Research/Maintenance Plugs.md",
+    "Component Research/Isolation Relays.md",
+    "Component Research/HVD Research.md",
+    "Component Research/High Voltage Connectors Research.md",
+    "Component Research/Fuse Research.md",
     "Component Research/Charging Research.md",
-    "Rules/EV.5 Components/EV.5.4 Grounded Low Voltage System.md",
-    "Rules/EV.6 Energy Storage/EV.6.3 Maintenance Plugs.md",
-    "Rules/EV.5 Components/EV.5.3 Accumulator Container.md"
+    "Component Research/Cascadia CM200DX Ordering.md",
+    "Component Research/Battery Research.md",
+    "Rules/EV.7 Electrical Shutdown/EV.7.6 Overcurrent Protection.md",
+    "Rules/EV.6 Energy Storage/EV.6.4 Accumulator Isolation Relays.md",
+    "Rules/EV.6 Energy Storage/EV.6.2 Electrical Configuration.md",
+    "Component Research/IMD Ordering.md",
+    "ReadME.md",
+    "Components Info/Orion 2 BMS.md",
+    "Documentation/Tractive Documentation.md",
+    "Shutdown Circuit 0V0.canvas",
+    "Documentation/Accumulator Documentation.md",
+    "Documentation/VCU V2 Documentation.md",
+    "Projects/Projects Master List.md",
+    "Projects/VCU/VCU WiFi Expansion Card.md",
+    "Projects/VCU/VCU V2.md",
+    "Projects/VCU/VCU.md",
+    "Projects/Low Voltage",
+    "Projects/High Voltage",
+    "Team Info",
+    "Documentation"
   ]
 }

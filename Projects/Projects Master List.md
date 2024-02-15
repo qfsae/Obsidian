@@ -7,11 +7,11 @@ Finished projects:
 ## Projects Index
 - [[#HV Research Projects]]
 	- [[#Charging Research]]
-	- [[#~~ HVD Research ~~]]
+	- ~~[[HVD Research]]~~
 	- [[#IMD Ordering]]
-	- [[#Isolation Relays]]
+	- ~~[[#Isolation Relays]]~~
 	- [[#Maintenance Plugs]]
-	- [[#~~ TS Connectors ~~]]
+	- ~~[[TS Connectors]]~~
 - [[#HV Design Projects]]
 	- [[#Discharge Circuit]]
 	- [[#Precharge Control]]
@@ -211,15 +211,8 @@ All software and firmware projects. Primary Contact: Jacob Chisholm.
 - Team Members:
 	- Ethan Parliament
 
-### [[Temperature Monitoring Firmware]]
-#### Overview
-- Developing firmware for the [[Temp Monitor PCB]]
-#### Team
-- Project Manager:
-- Team Members:
-	- 
 
-### [[Dashboard Software]]
+### [[Dashboard|Dashboard Software]]
 #### Overview
 - Developing software for the dashboard on the car
 - Refer to [[Dashboard]] for more information
