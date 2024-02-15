@@ -28,3 +28,22 @@ All prices listed in cad unless specified
 		- $10,721.39 per inverter
 		- $1445.92 per AC cable kit (pre-crimped)
 		- $964.11 per DC cable kit (pre-crimped)
+
+## Ordering (11/26/2023)
+Possible ordering options
+- Cascadia:
+	- 12 week lead time with 25% markup
+	- comes with all components/cables required
+- Swindon Powertrain
+	- CM200DX: $13000 CAD (no tax)
+	- Inverter Cables: $3700 CAD (no tax)
+		- Unknown if contains both DC bus cables and AC cables -> contacted for more information
+- Legacy EV:
+	- CM200DX: out of stock
+	- Inverter Cables:
+		- AC: out of stock
+		- DC: $595 USD (no tax)
+- Stealth EV:
+	- CM200: 10,000 CAD
+	- Inverter Cables:
+		- DC only
