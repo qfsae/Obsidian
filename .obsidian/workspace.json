@@ -15,9 +15,9 @@
               "state": {
                 "file": "Designs/Q24 EV.canvas",
                 "viewState": {
-                  "x": 2057.322729202787,
-                  "y": 621.5322724722532,
-                  "zoom": -0.7033939053335952
+                  "x": 1768.4024626201458,
+                  "y": 291.42187126327565,
+                  "zoom": -0.9999999999999998
                 }
               }
             }
@@ -152,8 +152,10 @@
   },
   "active": "fe65d905f7e6a833",
   "lastOpenFiles": [
-    "ReadME.md",
+    "Rules/EV.10 Vehicle Operations.md",
+    "Rules/EV.4 Electrical Limitations.md",
     "Designs/Q24 EV.canvas",
+    "Projects/Low Voltage/Dashboard.md",
     "Designs",
     "Component Research/Precharge Research.md",
     "Component Research/Orion 2 BMS Ordering.md",
@@ -169,6 +171,7 @@
     "Rules/EV.6 Energy Storage/EV.6.4 Accumulator Isolation Relays.md",
     "Rules/EV.6 Energy Storage/EV.6.2 Electrical Configuration.md",
     "Component Research/IMD Ordering.md",
+    "ReadME.md",
     "Components Info/Orion 2 BMS.md",
     "Documentation/Tractive Documentation.md",
     "Shutdown Circuit 0V0.canvas",
@@ -178,10 +181,8 @@
     "Projects/VCU/VCU WiFi Expansion Card.md",
     "Projects/VCU/VCU V2.md",
     "Projects/VCU/VCU.md",
-    "Projects/VCU/VCU V1.md",
     "Projects/Low Voltage",
     "Projects/High Voltage",
-    "Team Info/Parts Checkout.md",
     "Team Info",
     "Documentation"
   ]

@@ -1,14 +1,28 @@
 {
 	"nodes":[
-		{"id":"1d31839240257b51","x":-100,"y":340,"width":860,"height":700,"type":"group","label":"Front Loom"},
-		{"id":"909b4ace3f9aab3a","x":-80,"y":360,"width":250,"height":241,"type":"text","text":"# Pedal Box\n- Dual TPS\n- Dual BPS\n- BOTS"},
-		{"id":"d32a9621e8f1ec23","x":280,"y":360,"width":389,"height":321,"type":"text","text":"# Driver\n- Steering Angle Sensor\n- Emergency Stop\n- TS Enable Button\n- Dashboard\n\t- VBATT Power\n\t- CAN Bus"},
-		{"id":"b4f574abb571b350","x":-80,"y":640,"width":320,"height":240,"type":"text","text":"# Drivetrain\n- FL Wheel Speed\n- FL/FR Wheel Speeds\n- FL/FR Suspension Pots\n- Front Ride Height?"},
-		{"id":"a7f06ff88d246351","x":1120,"y":422,"width":560,"height":519,"type":"text","text":"# VCU\n- Analog Inputs\n\t- 6x 12V\n\t- 4x 5V\n- Digital Inputs\n\t- 4x 12V\n- Power\n\t- 8x 24V Power\n\t- 6x 12V Power\n\t- 6x 5V Power\n\t- 2x 24V Pump Control\n- Comms\n\t- 2x CAN Bus\n\t- 4x USART"},
-		{"id":"d189b4deabca9797","x":2080,"y":461,"width":280,"height":220,"type":"text","text":"# CM200 DX\n- CAN Bus\n- 24V Power"},
-		{"id":"2a3995081031ca6f","type":"text","text":"# CM200 DX\n- CAN Bus\n- 24V Power","x":2480,"y":461,"width":280,"height":220},
-		{"id":"6cde05cf5141fdbe","type":"text","text":"# Drivetrain\n- BL Wheel Speed\n- BL/BR Wheel Speeds\n- BL/BR Suspension Pots\n- BL/BR Ride Height?","x":2080,"y":760,"width":320,"height":240},
-		{"id":"5cb878c18c4301d2","x":1932,"y":180,"width":428,"height":168,"type":"text","text":"# Emrax 188HV\n"}
+		{"id":"909b4ace3f9aab3a","type":"text","text":"# Pedal Box\n- Dual TPS\n- Dual BPS\n- BOTS","x":-80,"y":360,"width":250,"height":241},
+		{"id":"b4f574abb571b350","type":"text","text":"# Drivetrain\n- FL Wheel Speed\n- FL/FR Wheel Speeds\n- FL/FR Suspension Pots\n- Front Ride Height?","x":-80,"y":640,"width":320,"height":240},
+		{"id":"a7f06ff88d246351","type":"text","text":"# VCU\n- Analog Inputs\n\t- 6x 12V\n\t- 4x 5V\n- Digital Inputs\n\t- 4x 12V\n- Power\n\t- 8x 24V Power\n\t- 6x 12V Power\n\t- 6x 5V Power\n\t- 2x 24V Pump Control\n- Comms\n\t- 2x CAN Bus\n\t- 4x USART","x":1755,"y":551,"width":560,"height":519},
+		{"id":"4181d7f27c62eba0","x":1323,"y":-880,"width":475,"height":127,"type":"text","text":"# [[Isolation Relays]]"},
+		{"id":"651cfc0922d7715b","x":1323,"y":-680,"width":468,"height":147,"type":"text","text":"# [[Precharge Control]]"},
+		{"id":"567e346d5d92ce97","type":"text","text":"# Energy Meter","x":1920,"y":-866,"width":320,"height":100},
+		{"id":"7373c45233fd581a","x":2392,"y":-866,"width":278,"height":100,"type":"text","text":"# Fuse"},
+		{"id":"541122ee416fe65c","type":"text","text":"# [[EV.8.6 IMD|IMD]]","x":2844,"y":-645,"width":280,"height":160},
+		{"id":"d189b4deabca9797","type":"text","text":"# [[Cascadia CM200DX]]\n- CAN Bus\n- 24V Power","x":2844,"y":-60,"width":380,"height":220},
+		{"id":"5cb878c18c4301d2","type":"text","text":"# [[Emrax 188HV]]","x":2916,"y":280,"width":308,"height":109},
+		{"id":"1b5a6f7fcd75439e","type":"text","text":"# [[Cascadia CM200DX]]\n- CAN Bus\n- 24V Power","x":3400,"y":-60,"width":380,"height":220},
+		{"id":"3d8572dcecb0c388","type":"text","text":"# [[Emrax 188HV]]","x":3472,"y":280,"width":308,"height":109},
+		{"id":"ad10da2f3218d2bb","x":712,"y":-766,"width":408,"height":143,"type":"text","text":"# [[Sony VTC6|Battery Segments]]"},
+		{"id":"c31180edb589af79","x":755,"y":-978,"width":365,"height":112,"type":"text","text":"# [[Orion 2 BMS]]"},
+		{"id":"ba8bbcdcac782ceb","x":755,"y":-533,"width":365,"height":112,"type":"text","text":"# Temp Monitor"},
+		{"id":"6cde05cf5141fdbe","type":"text","text":"# Drivetrain\n- BL Wheel Speed\n- BL/BR Wheel Speeds\n- BL/BR Suspension Pots\n- BL/BR Ride Height?","x":2440,"y":361,"width":320,"height":240},
+		{"id":"c4a2588baf58262e","type":"text","text":"# [[BSPD]]\n- Shutdown Circuit\n- 5VCC\n- BPS\n- Current Sensor","x":1120,"y":215,"width":340,"height":240},
+		{"id":"6be2f97273171a01","type":"text","text":"# [[Brake Light]]","x":2440,"y":680,"width":330,"height":131},
+		{"id":"db7809ddce66e30d","x":1914,"y":280,"width":333,"height":150,"type":"text","text":"# Kill Switch\n- Placed on both sides of the roll hoop"},
+		{"id":"403d3a8cfd093c71","type":"text","text":"# Data Logger","x":1920,"y":1320,"width":340,"height":170},
+		{"id":"f65a5fbb8ed56a72","x":1138,"y":48,"width":305,"height":112,"type":"text","text":"# Inertia Switch"},
+		{"id":"b7f62c30504e30cc","type":"text","text":"# Transponder\n","x":1120,"y":542,"width":370,"height":119},
+		{"id":"d32a9621e8f1ec23","type":"text","text":"# Dash\n- Steering Angle Sensor\n- TS Enable Button\n- [[Dashboard]]\n- Kill Switch","x":-80,"y":959,"width":389,"height":222}
 	],
 	"edges":[]
 }
