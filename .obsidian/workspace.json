@@ -13,12 +13,34 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Designs/Q24 EV.canvas",
+                "file": "Designs/HarnessV1.canvas",
                 "viewState": {
-                  "x": 1852.5956789706402,
-                  "y": 296.3959964215997,
-                  "zoom": -1
+                  "x": 1552.8712395317805,
+                  "y": 370.45355277741066,
+                  "zoom": -1.0061982354330705
                 }
+              }
+            }
+          },
+          {
+            "id": "c1086940518bdb28",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
+            "id": "84b4a23bcf9ac969",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Components Info/Orion 2 BMS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -51,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "967067",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "27f539b5d91a6783",
@@ -88,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Designs/Q24 EV.canvas",
+                "file": "Designs/HarnessV1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Designs/Q24 EV.canvas",
+                "file": "Designs/HarnessV1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Designs/Q24 EV.canvas"
+                "file": "Designs/HarnessV1.canvas"
               }
             }
           }
@@ -152,38 +175,39 @@
   },
   "active": "fe65d905f7e6a833",
   "lastOpenFiles": [
-    "Rules/EV.10 Vehicle Operations.md",
-    "Rules/EV.4 Electrical Limitations.md",
     "Designs/Q24 EV.canvas",
-    "Projects/Low Voltage/Dashboard.md",
-    "Designs",
-    "Component Research/Precharge Research.md",
-    "Component Research/Orion 2 BMS Ordering.md",
-    "Component Research/Maintenance Plugs.md",
-    "Component Research/Isolation Relays.md",
-    "Component Research/HVD Research.md",
-    "Component Research/High Voltage Connectors Research.md",
-    "Component Research/Fuse Research.md",
-    "Component Research/Charging Research.md",
-    "Component Research/Cascadia CM200DX Ordering.md",
-    "Component Research/Battery Research.md",
-    "Rules/EV.7 Electrical Shutdown/EV.7.6 Overcurrent Protection.md",
-    "Rules/EV.6 Energy Storage/EV.6.4 Accumulator Isolation Relays.md",
-    "Rules/EV.6 Energy Storage/EV.6.2 Electrical Configuration.md",
-    "Component Research/IMD Ordering.md",
-    "ReadME.md",
+    "Designs/HarnessV1.canvas",
+    "Designs/Q24 EV - Copy.canvas",
+    "Daily Notes/Recieved.md",
+    "Components Info/Cascadia CM200DX.md",
     "Components Info/Orion 2 BMS.md",
-    "Documentation/Tractive Documentation.md",
-    "Shutdown Circuit 0V0.canvas",
-    "Documentation/Accumulator Documentation.md",
-    "Documentation/VCU V2 Documentation.md",
-    "Projects/Projects Master List.md",
-    "Projects/VCU/VCU WiFi Expansion Card.md",
-    "Projects/VCU/VCU V2.md",
-    "Projects/VCU/VCU.md",
+    "Projects/Low Voltage/Dashboard.md",
+    "Projects/Low Voltage/BSPD.md",
+    "Projects/Low Voltage/Remote Monitoring Dashboard.md",
+    "Projects/Low Voltage/Brake Light.md",
     "Projects/Low Voltage",
+    "Projects/High Voltage/Voltage Indicator PCB.md",
+    "Projects/High Voltage/TSAL.md",
+    "Projects/High Voltage/Temp Monitor PCB.md",
+    "Projects/High Voltage/Precharge Control.md",
+    "Projects/High Voltage/Discharge Circuit.md",
+    "Projects/High Voltage/Accumulator Indication Panel.md",
     "Projects/High Voltage",
+    "Documentation/VCU V2 Documentation.md",
+    "Documentation/Tractive Documentation.md",
+    "Documentation/HV Master List (OLD).md",
+    "Documentation/Accumulator Documentation.md",
+    "Documentation",
+    "ReadME.md",
+    "Team Info/Parts Checkout.md",
+    "Team Info/Onboarding.md",
     "Team Info",
-    "Documentation"
+    "Component Research/Fuse Research.md",
+    "Shutdown Circuit 0V0.canvas",
+    "Projects/Voltage Indicator PCB.md",
+    "Projects/Temperature Monitoring Firmware.md",
+    "Projects/Temp Monitor PCB.md",
+    "Projects/TSAL.md",
+    "Designs"
   ]
 }
